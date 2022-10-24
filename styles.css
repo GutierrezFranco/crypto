@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    color: white;
+    list-style: none;
+    margin: 5px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 30px;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: aliceblue;
+    height: 3em;
+    align-items: center;
+    justify-content: center;
+}
+
+
+td,tr{
+    text-align: center;
+}
